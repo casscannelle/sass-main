@@ -1,4 +1,5 @@
-.cars {
+.destinations {
+    @extend %blocks;
     h2 {
         color: $color-default;
     }
